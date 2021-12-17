@@ -1,0 +1,16 @@
+/vendor
+/.idea
+/storage/debugbar
+/vuexy-shell-scripts
+/storage/*.key
+
+.env
+.env.backup
+.phpunit.result.cache
+composer.lock
+public/mix-manifest.json
+
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
